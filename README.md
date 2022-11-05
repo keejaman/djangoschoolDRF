@@ -1,0 +1,2 @@
+# djangoschoolDRF
+Учебный проект DjangoRestFramework
